@@ -18,3 +18,6 @@ I have mine running on a schedule every 5 mintues.
 3. Set a custom scheule, I used every 5 minutes `*/5 * * * *`
 
 4. All set.
+
+## Refs
+(Arch Linux Scaling Governors)[https://wiki.archlinux.org/title/CPU_frequency_scaling#Scaling_governors]
