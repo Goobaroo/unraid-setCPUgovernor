@@ -11,7 +11,7 @@ I have mine running on a schedule every 5 mintues.
 
 ## Setup
 
-1. Have the (CA User Scripts)[https://forums.unraid.net/topic/48286-plugin-ca-user-scripts/] Plugin installed on your Unraid server.
+1. Have the [CA User Scripts](https://forums.unraid.net/topic/48286-plugin-ca-user-scripts/) Plugin installed on your Unraid server.
 
 2. Add a new script and copy the contents of the script file.
 
@@ -20,4 +20,4 @@ I have mine running on a schedule every 5 mintues.
 4. All set.
 
 ## Refs
-(Arch Linux Scaling Governors)[https://wiki.archlinux.org/title/CPU_frequency_scaling#Scaling_governors]
+[Arch Linux Scaling Governors](https://wiki.archlinux.org/title/CPU_frequency_scaling#Scaling_governors)
